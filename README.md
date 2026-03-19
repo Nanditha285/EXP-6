@@ -26,6 +26,10 @@ OBSERVATION TABLE
 
 MODEL GRAPH:
 
+![image](https://github.com/Nanditha285/EXP-6/blob/main/Screenshot%202026-03-19%20160036.png?raw=true)
+
+CALCULATIONS:
+
 ![image](
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
