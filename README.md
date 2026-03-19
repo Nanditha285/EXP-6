@@ -30,7 +30,9 @@ MODEL GRAPH:
 
 CALCULATIONS:
 
-![image](
+![image](https://github.com/Nanditha285/EXP-6/blob/main/Screenshot%202026-03-19%20160056.png?raw=true)
+
+
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
